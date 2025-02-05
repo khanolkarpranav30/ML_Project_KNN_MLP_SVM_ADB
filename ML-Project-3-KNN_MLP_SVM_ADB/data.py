@@ -66,7 +66,7 @@ def load_all_data_from_zip(zipfile, data_dir, shuffle=True):
     Loads all the data from the given zip file.
 
     Inputs:
-        - zipfile: string path to a3digits zipfile
+        - zipfile: string path to data zipfile
         - data_dir: path to directory to extract zip file
         - shuffle: whether to randomly permute the data (true by default)
 
